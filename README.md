@@ -7,5 +7,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # 
-This README file provides instructions for installation, running the project, and usage of components. It also includes links to the tools used, a brief description of each component, and license information. You can customize it further based on your project's specific requirements.
-
+creating a navbar, heaer, and card with bootstrap in React js.  It also includes links to the tools used,
